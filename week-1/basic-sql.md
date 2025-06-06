@@ -95,9 +95,13 @@ SELECT MIN(age), MAX(age) FROM users;
 Wrote and solved several SQL scenarios, such as:
 
 ✅ Count users per city
+
 ✅ Filter names ending in “a”
+
 ✅ Get top 3 oldest users
+
 ✅ Calculate average age
+
 ✅ Show youngest and oldest users
 
 ```sql
