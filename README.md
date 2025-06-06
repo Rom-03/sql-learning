@@ -15,6 +15,6 @@ I'm learning SQL step-by-step — from the basics to advanced topics — and doc
 To improve my SQL skills and help others who are learning as well.  
 Feel free to fork, clone, or contribute!
 
-## 🧑‍💻 Author
+## Author
 [Jerome Anos](https://github.com/Rom-03)  
-SQL enthusiast and IT support professional
+SQL enthusiast and IT Support Engineer
