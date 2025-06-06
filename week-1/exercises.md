@@ -35,5 +35,15 @@ CREATE TABLE users (
 | 5  | Elain  | 35  | Cebu   |
 
 
+<details><summary>Answer</summary>
 
+```
+INSERT INTO users (id, name, age, city) VALUES
+(1, 'Anna', 23, 'Manila'),
+(2, 'Brian', 31, 'Cebu'),
+(3, 'Carla', 29, 'Davao'),
+(4, 'Daniel', 19, 'Manila'),
+(5, 'Elain', 35, 'Cebu');
 
+```
+</details>
