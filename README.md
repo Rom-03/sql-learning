@@ -1,6 +1,3 @@
-# sql-learning
-My SQL Learning journey 
-
 # SQL Learning Journey
 
 Welcome to my SQL learning repository!  
