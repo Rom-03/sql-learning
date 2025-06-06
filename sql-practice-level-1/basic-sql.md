@@ -1,4 +1,4 @@
-# My SQL Learning Journey — Week 1
+# My SQL Learning Journey
 
 Hi everyone! 👋 
 This past week, I committed myself to learning SQL from scratch — and I'm excited to share what I've accomplished so far. This post serves as both a milestone and a reference for anyone else just getting started.
