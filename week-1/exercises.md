@@ -48,7 +48,7 @@ INSERT INTO users (id, name, age, city) VALUES
 ```
 </details>
 
-### Try It Yourself
+### Try It Yourself on
 
 - [One Compiler](https://onecompiler.com)
 
@@ -64,6 +64,8 @@ Q6. Show users younger than 30 AND from Manila.
 
 Q7. Show users who live in Davao OR are younger than 25.
 
+⸻
+
 ## LIKE, IN, BETWEEN
 
 Q8. Show users whose name ends with the letter “a”.
@@ -77,7 +79,9 @@ Q10. Show users aged between 25 and 35.
 ## ORDER BY, LIMIT
 
 Q11. List all users sorted by age in descending order.
+
 Q12. Show the top 3 oldest users.
+
 Q13. Show the youngest user.
 
 ⸻
