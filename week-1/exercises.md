@@ -24,4 +24,16 @@ CREATE TABLE users (
 ```
 </details>
 
+## Q2. Insert the following data into the users table:
+
+| id | name   | age | city   |
+|----|--------|-----|--------|
+| 1  | Anna   | 23  | Manila |
+| 2  | Brian  | 31  | Cebu   |
+| 3  | Carla  | 29  | Davao  |
+| 4  | Daniel | 19  | Manila |
+| 5  | Elain  | 35  | Cebu   |
+
+
+
 
